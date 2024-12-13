@@ -1,0 +1,30 @@
+[
+    
+    {
+        "product_id": "AP001",
+          "product_title": "iPhone 14 Pro",
+          "product_image": "iphone14pro.jpg",
+          "category": "All Products"
+    },
+    {
+        "product_id": "P001",
+          "product_title": "iPhone 14 Pro",
+          "product_image": "iphone14pro.jpg",
+          "category": "Phones"
+    },
+    {
+       "product_id": "S001",
+          "product_title": "Apple Watch Series 8",
+          "product_image": "applewatch8.jpg",
+          "category": "Smart Watch"
+    },
+    {
+       "product_id": "A001",
+          "product_title": "Sony WF-1000XM4",
+          "product_image": "sonyWF1000XM4.jpg",
+          "category": "Airphone"
+    },
+    {
+       "category": "Tablet"
+    }
+]

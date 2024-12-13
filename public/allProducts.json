@@ -1,0 +1,196 @@
+[
+     
+      {
+          "product_id": "P001",
+          "product_title": "iPhone 14 Pro",
+          "product_image": "https://i.ibb.co.com/Srm7m5r/download.jpg",
+          "category": "Phones",
+          "price": 999.99,
+          "description": "Latest Apple iPhone with A16 Bionic chip and triple-lens camera.",
+          "specification": [
+              "6.1 inch OLED display",
+              "128GB storage",
+              "Triple-lens rear camera",
+              "iOS 16"
+          ],
+          "availability": true,
+          "rating": 4.8
+      },
+      {
+        "product_id": "S002",
+        "product_title": "Samsung Galaxy Watch 5",
+        "product_image": "https://i.ibb.co.com/vZ6jRCG/download-1.jpg",
+        "category": "Smart Watch",
+        "price": 329.99,
+        "description": "Samsung's latest smartwatch with fitness and health tracking features.",
+        "specification": [
+            "1.4 inch AMOLED display",
+            "Water resistant",
+            "ECG monitoring",
+            "Long battery life"
+        ],
+        "availability": false,
+        "rating": 4.5
+      },
+      {
+          "product_id": "P002",
+          "product_title": "Samsung Galaxy S23 Ultra",
+          "product_image": "https://i.ibb.co.com/0YDs0jp/download-2.jpg",
+          "category": "Phones",
+          "price": 849.99,
+          "description": "High-end Samsung phone with powerful performance and an improved camera.",
+          "specification": [
+              "6.2 inch AMOLED display",
+              "128GB storage",
+              "Triple-lens rear camera",
+              "Android 13"
+          ],
+          "availability": true,
+          "rating": 4.6
+      },
+      {
+        "product_id": "A002",
+        "product_title": "AirPods Pro 2nd Gen",
+        "product_image": "https://i.ibb.co.com/VqmLf6p/download-3.jpg",
+        "category": "Airphone",
+        "price": 249.99,
+        "description": "Apple's high-end AirPods with noise cancellation and spatial audio.",
+        "specification": [
+            "Noise cancellation",
+            "Spatial audio",
+            "6 hours battery life",
+            "MagSafe charging"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+          "product_id": "S001",
+          "product_title": "Apple Watch Series 8",
+          "product_image": "https://i.ibb.co.com/TR8sfvD/download-4.jpg",
+          "category": "Smart Watch",
+          "price": 399.99,
+          "description": "Advanced health-tracking and GPS smart watch by Apple.",
+          "specification": [
+              "1.78 inch OLED display",
+              "Water resistant",
+              "Heart rate monitor",
+              "GPS enabled"
+          ],
+          "availability": true,
+          "rating": 4.7
+      },
+      {
+          "product_id": "A001",
+          "product_title": "Sony WF-1000XM4",
+          "product_image": "https://i.ibb.co.com/FmKhKf9/download-5.jpg",
+          "category": "Airphone",
+          "price": 279.99,
+          "description": "Sony's noise-canceling true wireless earbuds with superb sound quality.",
+          "specification": [
+              "Noise cancellation",
+              "Wireless charging",
+              "8 hours battery life",
+              "Bluetooth 5.2"
+          ],
+          "availability": true,
+          "rating": 4.8
+      },
+      {
+        "product_id": "AP001",
+        "product_title": "iPhone 14 Pro",
+        "product_image": "https://i.ibb.co.com/Srm7m5r/download.jpg",
+        "category": "All Products",
+        "price": 999.99,
+        "description": "Latest Apple iPhone with A16 Bionic chip and triple-lens camera.",
+        "specification": [
+            "6.1 inch OLED display",
+            "128GB storage",
+            "Triple-lens rear camera",
+            "iOS 16"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+      "product_id": "AP002",
+      "product_title": "Samsung Galaxy Watch 5",
+      "product_image": "https://i.ibb.co.com/vZ6jRCG/download-1.jpg",
+      "category": "All Products",
+      "price": 329.99,
+      "description": "Samsung's latest smartwatch with fitness and health tracking features.",
+      "specification": [
+          "1.4 inch AMOLED display",
+          "Water resistant",
+          "ECG monitoring",
+          "Long battery life"
+      ],
+      "availability": false,
+      "rating": 4.5
+    },
+    {
+        "product_id": "AP003",
+        "product_title": "Samsung Galaxy S23 Ultra",
+        "product_image": "https://i.ibb.co.com/0YDs0jp/download-2.jpg",
+        "category": "All Products",
+        "price": 849.99,
+        "description": "High-end Samsung phone with powerful performance and an improved camera.",
+        "specification": [
+            "6.2 inch AMOLED display",
+            "128GB storage",
+            "Triple-lens rear camera",
+            "Android 13"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+      "product_id": "AP004",
+      "product_title": "AirPods Pro 2nd Gen",
+      "product_image": "https://i.ibb.co.com/VqmLf6p/download-3.jpg",
+      "category": "All Products",
+      "price": 249.99,
+      "description": "Apple's high-end AirPods with noise cancellation and spatial audio.",
+      "specification": [
+          "Noise cancellation",
+          "Spatial audio",
+          "6 hours battery life",
+          "MagSafe charging"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+        "product_id": "AP005",
+        "product_title": "Apple Watch Series 8",
+        "product_image": "https://i.ibb.co.com/TR8sfvD/download-4.jpg",
+        "category": "All Products",
+        "price": 399.99,
+        "description": "Advanced health-tracking and GPS smart watch by Apple.",
+        "specification": [
+            "1.78 inch OLED display",
+            "Water resistant",
+            "Heart rate monitor",
+            "GPS enabled"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "AP006",
+        "product_title": "Sony WF-1000XM4",
+        "product_image": "https://i.ibb.co.com/FmKhKf9/download-5.jpg",
+        "category": "All Products",
+        "price": 279.99,
+        "description": "Sony's noise-canceling true wireless earbuds with superb sound quality.",
+        "specification": [
+            "Noise cancellation",
+            "Wireless charging",
+            "8 hours battery life",
+            "Bluetooth 5.2"
+        ],
+        "availability": true,
+        "rating": 4.8
+    }
+      
+    ]
