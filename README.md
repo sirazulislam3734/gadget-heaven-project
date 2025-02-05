@@ -1,8 +1,8 @@
 # Visa Navigator
 
-## [Live Link](https://assignment-010-512d2.web.app/)
+## [Live Link](https://parcel-management-24b3b.web.app)
 
-## [Vercel Server](https://newserver-pi.vercel.app/)
+## [Vercel Server](https://parcel-management-system-server-tau.vercel.app/)
 
 Welcome to Visa Navigator Portal, a comprehensive and user-friendly platform designed to simplify the visa process. This application streamlines every step, allowing users to effortlessly check visa requirements, apply for visas online, and track application statuses in real time. With a modern interface and robust functionality, Visa Navigator ensures a seamless and engaging user experience. Whether you're planning a trip for leisure, study, or work, Visa Navigator makes navigating visa complexities a breeze.
 
